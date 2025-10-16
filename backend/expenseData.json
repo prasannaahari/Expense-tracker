@@ -1,0 +1,1080 @@
+{
+  "frequentRecords": {
+    "newspaper": {
+      "quantity": 1,
+      "price": 5,
+      "total": 5,
+      "category": "entertainment"
+    },
+    "bus": {
+      "quantity": 2,
+      "price": 30,
+      "total": 60,
+      "category": "travel"
+    },
+    "tea": {
+      "quantity": 2,
+      "price": 10,
+      "total": 20,
+      "category": "food"
+    },
+    "lunch": {
+      "quantity": 1,
+      "price": 50,
+      "total": 50,
+      "category": "food"
+    }
+  },
+  "dailyRecords": {
+    "30/07/2025": {
+      "watch": {
+        "quantity": "1",
+        "price": "1500",
+        "total": 1500,
+        "category": "others"
+      }
+    },
+    "01/08/2025": {
+      "tea": {
+        "quantity": 2,
+        "price": 10,
+        "total": 20,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      },
+      "income": {
+        "quantity": 1,
+        "price": 100000,
+        "total": 100000,
+        "category": "income"
+      }
+    },
+    "02/08/2025": {
+      "milk": {
+        "quantity": 1,
+        "price": 30,
+        "total": 30,
+        "category": "food"
+      },
+      "newspaper": {
+        "quantity": 1,
+        "price": 5,
+        "total": 5,
+        "category": "entertainment"
+      }
+    },
+    "03/08/2025": {
+      "egg": {
+        "quantity": 12,
+        "price": 7,
+        "total": 84,
+        "category": "food"
+      },
+      "tea": {
+        "quantity": 3,
+        "price": 10,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "04/08/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      },
+      "samosa": {
+        "quantity": 2,
+        "price": 15,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "05/08/2025": {
+      "lunch": {
+        "quantity": 1,
+        "price": 50,
+        "total": 50,
+        "category": "food"
+      },
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      }
+    },
+    "06/08/2025": {
+      "egg": {
+        "quantity": 10,
+        "price": 7,
+        "total": 70,
+        "category": "food"
+      },
+      "milk": {
+        "quantity": 1,
+        "price": 28,
+        "total": 28,
+        "category": "food"
+      }
+    },
+    "07/08/2025": {
+      "tea": {
+        "quantity": 4,
+        "price": 10,
+        "total": 40,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      }
+    },
+    "08/08/2025": {
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "snacks": {
+        "quantity": 2,
+        "price": 15,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "09/08/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      },
+      "newspaper": {
+        "quantity": 1,
+        "price": 5,
+        "total": 5,
+        "category": "entertainment"
+      }
+    },
+    "10/08/2025": {
+      "egg": {
+        "quantity": 10,
+        "price": 7,
+        "total": 70,
+        "category": "food"
+      },
+      "tea": {
+        "quantity": 3,
+        "price": 10,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "11/08/2025": {
+      "milk": {
+        "quantity": 1,
+        "price": 30,
+        "total": 30,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      }
+    },
+    "12/08/2025": {
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "snacks": {
+        "quantity": 1,
+        "price": 15,
+        "total": 15,
+        "category": "food"
+      }
+    },
+    "13/08/2025": {
+      "egg": {
+        "quantity": 8,
+        "price": 7,
+        "total": 56,
+        "category": "food"
+      },
+      "tea": {
+        "quantity": 2,
+        "price": 10,
+        "total": 20,
+        "category": "food"
+      }
+    },
+    "14/08/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      },
+      "newspaper": {
+        "quantity": 1,
+        "price": 5,
+        "total": 5,
+        "category": "entertainment"
+      }
+    },
+    "15/08/2025": {
+      "lunch": {
+        "quantity": 1,
+        "price": 50,
+        "total": 50,
+        "category": "food"
+      },
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      }
+    },
+    "16/08/2025": {
+      "egg": {
+        "quantity": 10,
+        "price": 7,
+        "total": 70,
+        "category": "food"
+      },
+      "milk": {
+        "quantity": 1,
+        "price": 28,
+        "total": 28,
+        "category": "food"
+      }
+    },
+    "17/08/2025": {
+      "tea": {
+        "quantity": 4,
+        "price": 10,
+        "total": 40,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      }
+    },
+    "18/08/2025": {
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "snacks": {
+        "quantity": 2,
+        "price": 15,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "19/08/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      },
+      "newspaper": {
+        "quantity": 1,
+        "price": 5,
+        "total": 5,
+        "category": "entertainment"
+      }
+    },
+    "20/08/2025": {
+      "egg": {
+        "quantity": 10,
+        "price": 7,
+        "total": 70,
+        "category": "food"
+      },
+      "tea": {
+        "quantity": 3,
+        "price": 10,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "21/08/2025": {
+      "milk": {
+        "quantity": 1,
+        "price": 30,
+        "total": 30,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      }
+    },
+    "22/08/2025": {
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "snacks": {
+        "quantity": 2,
+        "price": 15,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "23/08/2025": {
+      "egg": {
+        "quantity": 12,
+        "price": 7,
+        "total": 84,
+        "category": "food"
+      },
+      "tea": {
+        "quantity": 2,
+        "price": 10,
+        "total": 20,
+        "category": "food"
+      }
+    },
+    "24/08/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      },
+      "newspaper": {
+        "quantity": 1,
+        "price": 5,
+        "total": 5,
+        "category": "entertainment"
+      }
+    },
+    "25/08/2025": {
+      "lunch": {
+        "quantity": 1,
+        "price": 50,
+        "total": 50,
+        "category": "food"
+      },
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      }
+    },
+    "26/08/2025": {
+      "egg": {
+        "quantity": 10,
+        "price": 7,
+        "total": 70,
+        "category": "food"
+      },
+      "milk": {
+        "quantity": 1,
+        "price": 28,
+        "total": 28,
+        "category": "food"
+      }
+    },
+    "27/08/2025": {
+      "tea": {
+        "quantity": 4,
+        "price": 10,
+        "total": 40,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      }
+    },
+    "28/08/2025": {
+      "tea": {
+        "quantity": 2,
+        "price": 10,
+        "total": 20,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      }
+    },
+    "29/08/2025": {
+      "milk": {
+        "quantity": 1,
+        "price": 30,
+        "total": 30,
+        "category": "food"
+      },
+      "newspaper": {
+        "quantity": 1,
+        "price": 5,
+        "total": 5,
+        "category": "entertainment"
+      }
+    },
+    "30/08/2025": {
+      "egg": {
+        "quantity": 10,
+        "price": 7,
+        "total": 70,
+        "category": "food"
+      },
+      "tea": {
+        "quantity": 3,
+        "price": 10,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "31/08/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      },
+      "samosa": {
+        "quantity": 2,
+        "price": 15,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "01/09/2025": {
+      "lunch": {
+        "quantity": 1,
+        "price": 50,
+        "total": 50,
+        "category": "food"
+      },
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "income": {
+        "quantity": 1,
+        "price": 100000,
+        "total": 100000,
+        "category": "income"
+      }
+    },
+    "02/09/2025": {
+      "egg": {
+        "quantity": 5,
+        "price": 7,
+        "total": 35,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      }
+    },
+    "03/09/2025": {
+      "milk": {
+        "quantity": 1,
+        "price": 30,
+        "total": 30,
+        "category": "food"
+      },
+      "tea": {
+        "quantity": 2,
+        "price": 10,
+        "total": 20,
+        "category": "food"
+      }
+    },
+    "04/09/2025": {
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "snacks": {
+        "quantity": 2,
+        "price": 15,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "05/09/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      },
+      "newspaper": {
+        "quantity": 1,
+        "price": 5,
+        "total": 5,
+        "category": "entertainment"
+      }
+    },
+    "06/09/2025": {
+      "egg": {
+        "quantity": 12,
+        "price": 7,
+        "total": 84,
+        "category": "food"
+      },
+      "milk": {
+        "quantity": 1,
+        "price": 28,
+        "total": 28,
+        "category": "food"
+      }
+    },
+    "07/09/2025": {
+      "tea": {
+        "quantity": 4,
+        "price": 10,
+        "total": 40,
+        "category": "food"
+      },
+      "lunch": {
+        "quantity": 1,
+        "price": 55,
+        "total": 55,
+        "category": "food"
+      }
+    },
+    "08/09/2025": {
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      },
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      }
+    },
+    "09/09/2025": {
+      "egg": {
+        "quantity": 6,
+        "price": 7,
+        "total": 42,
+        "category": "food"
+      },
+      "snacks": {
+        "quantity": 1,
+        "price": 15,
+        "total": 15,
+        "category": "food"
+      }
+    },
+    "10/09/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 15,
+        "total": 30,
+        "category": "travel"
+      },
+      "tea": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "food"
+      }
+    },
+    "11/09/2025": {
+      "milk": {
+        "quantity": 1,
+        "price": 30,
+        "total": 30,
+        "category": "food"
+      },
+      "newspaper": {
+        "quantity": 1,
+        "price": 5,
+        "total": 5,
+        "category": "entertainment"
+      }
+    },
+    "12/09/2025": {
+      "egg": {
+        "quantity": 10,
+        "price": 7,
+        "total": 70,
+        "category": "food"
+      },
+      "lunch": {
+        "quantity": 1,
+        "price": 50,
+        "total": 50,
+        "category": "food"
+      }
+    },
+    "13/09/2025": {
+      "tea": {
+        "quantity": 5,
+        "price": 10,
+        "total": 50,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 12,
+        "total": 12,
+        "category": "travel"
+      }
+    },
+    "14/09/2025": {
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "cinema": {
+        "quantity": 1,
+        "price": 200,
+        "total": 200,
+        "category": "entertainment"
+      }
+    },
+    "15/09/2025": {
+      "milk": {
+        "quantity": 2,
+        "price": 28,
+        "total": 56,
+        "category": "food"
+      },
+      "snacks": {
+        "quantity": 1,
+        "price": 15,
+        "total": 15,
+        "category": "food"
+      }
+    },
+    "16/09/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      },
+      "tea": {
+        "quantity": 3,
+        "price": 10,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "17/09/2025": {
+      "egg": {
+        "quantity": 8,
+        "price": 7,
+        "total": 56,
+        "category": "food"
+      },
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      }
+    },
+    "18/09/2025": {
+      "milk": {
+        "quantity": 1,
+        "price": 30,
+        "total": 30,
+        "category": "food"
+      },
+      "newspaper": {
+        "quantity": 1,
+        "price": 5,
+        "total": 5,
+        "category": "entertainment"
+      }
+    },
+    "19/09/2025": {
+      "tea": {
+        "quantity": 2,
+        "price": 10,
+        "total": 20,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      }
+    },
+    "20/09/2025": {
+      "egg": {
+        "quantity": 10,
+        "price": 7,
+        "total": 70,
+        "category": "food"
+      },
+      "snacks": {
+        "quantity": 2,
+        "price": 15,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "21/09/2025": {
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "lunch": {
+        "quantity": 1,
+        "price": 50,
+        "total": 50,
+        "category": "food"
+      }
+    },
+    "22/09/2025": {
+      "milk": {
+        "quantity": 1,
+        "price": 28,
+        "total": 28,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      }
+    },
+    "23/09/2025": {
+      "egg": {
+        "quantity": 12,
+        "price": 7,
+        "total": 84,
+        "category": "food"
+      },
+      "tea": {
+        "quantity": 2,
+        "price": 10,
+        "total": 20,
+        "category": "food"
+      }
+    },
+    "24/09/2025": {
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "newspaper": {
+        "quantity": 1,
+        "price": 5,
+        "total": 5,
+        "category": "entertainment"
+      }
+    },
+    "25/09/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      },
+      "snacks": {
+        "quantity": 2,
+        "price": 15,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "26/09/2025": {
+      "egg": {
+        "quantity": 10,
+        "price": 7,
+        "total": 70,
+        "category": "food"
+      },
+      "milk": {
+        "quantity": 1,
+        "price": 28,
+        "total": 28,
+        "category": "food"
+      }
+    },
+    "27/09/2025": {
+      "tea": {
+        "quantity": 4,
+        "price": 10,
+        "total": 40,
+        "category": "food"
+      },
+      "lunch": {
+        "quantity": 1,
+        "price": 50,
+        "total": 50,
+        "category": "food"
+      }
+    },
+    "28/09/2025": {
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      },
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      }
+    },
+    "29/09/2025": {
+      "egg": {
+        "quantity": 6,
+        "price": 7,
+        "total": 42,
+        "category": "food"
+      },
+      "snacks": {
+        "quantity": 1,
+        "price": 15,
+        "total": 15,
+        "category": "food"
+      }
+    },
+    "30/09/2025": {
+      "bus": {
+        "quantity": 2,
+        "price": 12,
+        "total": 24,
+        "category": "travel"
+      },
+      "tea": {
+        "quantity": 3,
+        "price": 10,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "01/10/2025": {
+      "milk": {
+        "quantity": 1,
+        "price": 30,
+        "total": 30,
+        "category": "food"
+      },
+      "coffee": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "income": {
+        "quantity": 1,
+        "price": 50000,
+        "total": 50000,
+        "category": "income"
+      }
+    },
+    "02/10/2025": {
+      "egg": {
+        "quantity": 10,
+        "price": 7,
+        "total": 70,
+        "category": "food"
+      },
+      "bus": {
+        "quantity": 1,
+        "price": 10,
+        "total": 10,
+        "category": "travel"
+      }
+    },
+    "03/10/2025": {
+      "tea": {
+        "quantity": 2,
+        "price": 10,
+        "total": 20,
+        "category": "food"
+      },
+      "lunch": {
+        "quantity": 3,
+        "price": 50,
+        "total": 150,
+        "category": "food"
+      },
+      "egg": {
+        "quantity": 15,
+        "price": 8,
+        "total": 120,
+        "category": "food"
+      },
+      "MOVIE": {
+        "quantity": 1,
+        "price": 150,
+        "total": 150,
+        "category": "entertainment"
+      },
+      "shirt": {
+        "quantity": 1,
+        "price": 500,
+        "total": 500,
+        "category": "others"
+      }
+    },
+    "04/10/2025": {
+      "apple": {
+        "quantity": 5,
+        "price": 5,
+        "category": "food",
+        "total": 25
+      },
+      "tea": {
+        "quantity": 2,
+        "price": 15,
+        "total": 30,
+        "category": "food"
+      }
+    },
+    "05/10/2025": {
+      "tea": {
+        "quantity": 1,
+        "price": 20,
+        "total": 20,
+        "category": "food"
+      },
+      "tea_1": {
+        "quantity": 1,
+        "price": 25,
+        "total": 25,
+        "category": "food"
+      },
+      "tea_2": {
+        "quantity": 1,
+        "price": 18,
+        "total": 18,
+        "category": "food"
+      },
+      "tea_3": {
+        "quantity": 1,
+        "price": 17,
+        "total": 17,
+        "category": "food"
+      },
+      "DINNER": {
+        "quantity": 2,
+        "price": 500,
+        "total": 1000,
+        "category": "food"
+      }
+    },
+    "06/10/2025": {
+      "banana": {
+        "quantity": 12,
+        "price": 72,
+        "total": 864,
+        "category": "food"
+      },
+      "t-shirt": {
+        "quantity": 3,
+        "price": 700,
+        "total": 2100,
+        "category": "others"
+      },
+      "tea_1": {
+        "quantity": 4,
+        "price": 20,
+        "total": 80,
+        "category": "food"
+      },
+      "book": {
+        "quantity": 5,
+        "price": 300,
+        "total": 1500,
+        "category": "others"
+      },
+      "movie ticket": {
+        "quantity": 2,
+        "price": 250,
+        "total": 500,
+        "category": "entertainment"
+      }
+    },
+    "07/10/2025": {
+      "newspaper": {
+        "quantity": 3,
+        "price": 5,
+        "total": 15,
+        "category": "entertainment"
+      },
+      "tea": {
+        "quantity": 2,
+        "price": 10,
+        "total": 20,
+        "category": "food"
+      },
+      "lunch": {
+        "quantity": 1,
+        "price": 50,
+        "total": 50,
+        "category": "food"
+      },
+      "watch ": {
+        "quantity": 1,
+        "price": 1500,
+        "total": 1500,
+        "category": "others"
+      },
+      "EGG": {
+        "quantity": 2,
+        "price": 24,
+        "total": 48,
+        "category": "food"
+      }
+    }
+  }
+}

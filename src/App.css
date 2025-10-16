@@ -1,0 +1,64 @@
+body {
+	background-color: #D2C1B6 !important;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+#root {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	height: 100vh;
+}
+
+main {
+	flex: 1 0 auto;
+	display: flex;
+	flex-direction: column;
+}
+
+footer {
+	width: 100%;
+}
+/* FrequentList custom styles */
+.frequent-bg {
+	/* keep transparent but define min-height to avoid empty ruleset */
+	min-height: 1px;
+}
+.frequent-title {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	color: #1B3C53;
+	letter-spacing: 1px;
+}
+.frequent-card {
+	border-radius: 12px;
+	box-shadow: 0 2px 12px rgba(27, 60, 83, 0.08);
+}
+.frequent-card-header {
+	border-radius: 12px 12px 0 0;
+}
+.frequent-table th, .frequent-table td {
+	vertical-align: middle !important;
+}
+.frequent-table th {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	letter-spacing: 0.5px;
+}
+.frequent-table td {
+	font-size: 1rem;
+}
+
+/* Custom font for navbar text */
+.navbar-font {
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 1px;
+}
+
+
+
+
+
